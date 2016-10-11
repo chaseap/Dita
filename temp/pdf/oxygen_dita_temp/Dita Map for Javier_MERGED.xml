@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " xtrc="map:1;3:6" xtrf="file:/C:/Users/chase/Desktop/Dita/Dita%20Map%20for%20Javier.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+ <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title " xtrc="title:1;4:9" xtrf="file:/C:/Users/chase/Desktop/Dita/Dita%20Map%20for%20Javier.ditamap">DITA Topic Map</title>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_1" id="unique_1" type="task" xtrc="topicref:1;5:45" xtrf="file:/C:/Users/chase/Desktop/Dita/Dita%20Map%20for%20Javier.ditamap" ohref="Introduction%20Page.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " resourceid="task_u5t_b5k_nx"><navtitle class="- topic/navtitle ">Guide for Javier</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guide for Javier</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Javier needs help. This guide will help him make a good breakfast, become a good         student, and make friends. </shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_2" id="unique_2" type="task" xtrc="topicref:2;6:53" xtrf="file:/C:/Users/chase/Desktop/Dita/Dita%20Map%20for%20Javier.ditamap" ohref="How%20to%20make%20breakfast.dita" first_topic_id="#unique_2"><topicmeta class="- map/topicmeta " resourceid="task_g3w_xjw_mx"><navtitle class="- topic/navtitle ">How to make a good breakfast</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to make a good breakfast</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The key to a good day is starting it off right with a tasty bowl of         cereal.</shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_3" id="unique_3" type="task" xtrc="topicref:3;7:42" xtrf="file:/C:/Users/chase/Desktop/Dita/Dita%20Map%20for%20Javier.ditamap" ohref="How%20to%20study.dita" first_topic_id="#unique_3"><topicmeta class="- map/topicmeta " resourceid="task_qlv_3kw_mx"><navtitle class="- topic/navtitle ">How to be a good student</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to be a good student</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You want to be a good Hokie. That's great. But being a good student usually doesn't         mesh well with making friends. </shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_4" id="unique_4" type="task" xtrc="topicref:4;8:51" xtrf="file:/C:/Users/chase/Desktop/Dita/Dita%20Map%20for%20Javier.ditamap" ohref="How%20to%20make%20friends.dita" first_topic_id="#unique_4"><topicmeta class="- map/topicmeta " resourceid="task_apm_p3w_mx"><navtitle class="- topic/navtitle ">How to make friends</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to make friends</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Nobody likes a stinky person. This task is aimed at making sure that you smell good         when you introduce people. </shortdesc></topicmeta></topicref>
+</opentopic:map><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/chase/Desktop/Dita/Introduction%20Page.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_u5t_b5k_nx" id="unique_1">
+    <title class="- topic/title " xtrf="file:/C:/Users/chase/Desktop/Dita/Introduction%20Page.dita" xtrc="title:1;4:12">Guide for Javier</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/chase/Desktop/Dita/Introduction%20Page.dita" xtrc="shortdesc:1;5:16">Javier needs help. This guide will help him make a good breakfast, become a good
+        student, and make friends. </shortdesc>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_g3w_xjw_mx" id="unique_2">
+    <title class="- topic/title " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="title:1;4:12">How to make a good breakfast</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="shortdesc:1;5:16">The key to a good day is starting it off right with a tasty bowl of
+        cereal.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="context:1;8:18">This will tell you how to make a nice bowl of Frosted Flakes<p class="- topic/p " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="p:1;8:82"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="cmd:1;11:22">Get milk out of refridgerator</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="step:2;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="cmd:2;14:22">Get out a bowl</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="step:3;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="cmd:3;17:22">Get out the Frosted Flakes</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="step:4;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="cmd:4;20:22">Pour Frosted Flakes in the bowl</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="step:5;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="cmd:5;23:22">Pour milk in bowl over the Frosted Flakes</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="step:6;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20breakfast.dita" xtrc="cmd:6;26:22">Eat it with a spoon</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_qlv_3kw_mx" id="unique_3">
+    <title class="- topic/title " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="title:1;4:12">How to be a good student</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="shortdesc:1;5:16">You want to be a good Hokie. That's great. But being a good student usually doesn't
+        mesh well with making friends. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="context:1;8:18">This will tell you how students with a social life study for classes<p class="- topic/p " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="p:1;8:90"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="cmd:1;11:22">Wait until the night before the quiz/test to study</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="step:2;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="cmd:2;14:22">Only study the essentials (main topics)</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="step:3;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="cmd:3;17:22">Cram the information in</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="step:4;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="cmd:4;20:22">Get about three hours of sleep before the test</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="step:5;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20study.dita" xtrc="cmd:5;23:22">Dump all of the information that you memorized onto the quiz/test and forget it
+                    afterwards</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_apm_p3w_mx" id="unique_4">
+    <title class="- topic/title " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="title:1;4:12">How to make friends</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="shortdesc:1;5:16">Nobody likes a stinky person. This task is aimed at making sure that you smell good
+        when you introduce people. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="context:1;8:18">The goal is make people notice your incredible scent<p class="- topic/p " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="p:1;8:74"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="cmd:1;11:22">Brush your teeth. Nobody likes stinky morning breathe.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="step:2;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="cmd:2;14:22">Hop in the shower and use the Old Spice soap/shampoo.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="step:3;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="cmd:3;17:22">Dry off with a towel</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="step:4;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="cmd:4;20:22">Put on Old Spice deodorant</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="step:5;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="cmd:5;23:22">Get dressed in Virginia Tech clothes</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="step:6;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/Dita/How%20to%20make%20friends.dita" xtrc="cmd:6;26:22">Spray a little cologne on your shirt</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></map>

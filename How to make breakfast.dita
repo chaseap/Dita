@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_g3w_xjw_mx">
+    <shortdesc>The key to a good day is starting it off right with a tasty bowl of
+        cereal.</shortdesc>
+    <taskbody>
+        <context>This will tell you how to make a nice bowl of Frosted Flakes<p/></context>
+        <steps>
+            <step>
+                <cmd>Get milk out of refridgerator</cmd>
+            </step>
+            <step>
+                <cmd>Get out a bowl</cmd>
+            </step>
+            <step>
+                <cmd>Get out the Frosted Flakes</cmd>
+            </step>
+            <step>
+                <cmd>Pour Frosted Flakes in the bowl</cmd>
+            </step>
+            <step>
+                <cmd>Pour milk in bowl over the Frosted Flakes</cmd>
+            </step>
+            <step>
+                <cmd>Eat it with a spoon</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

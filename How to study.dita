@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qlv_3kw_mx">
+    <title>How to be a good student</title>
+    <shortdesc>You want to be a good Hokie. That's great. But being a good student usually doesn't
+        mesh well with making friends. </shortdesc>
+    <taskbody>
+        <context>This will tell you how students with a social life study for classes<p/></context>
+        <steps>
+            <step>
+                <cmd>Wait until the night before the quiz/test to study</cmd>
+            </step>
+            <step>
+                <cmd>Only study the essentials (main topics)</cmd>
+            </step>
+            <step>
+                <cmd>Cram the information in</cmd>
+            </step>
+            <step>
+                <cmd>Get about three hours of sleep before the test</cmd>
+            </step>
+            <step>
+                <cmd>Dump all of the information that you memorized onto the quiz/test and forget it
+                    afterwards</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_apm_p3w_mx">
+    <title>How to make friends</title>
+    <shortdesc>Nobody likes a stinky person. This task is aimed at making sure that you smell good
+        when you introduce people. </shortdesc>
+    <taskbody>
+        <context>The goal is make people notice your incredible scent<p/></context>
+        <steps>
+            <step>
+                <cmd>Brush your teeth. Nobody likes stinky morning breathe.</cmd>
+            </step>
+            <step>
+                <cmd>Hop in the shower and use the Old Spice soap/shampoo.</cmd>
+            </step>
+            <step>
+                <cmd>Dry off with a towel</cmd>
+            </step>
+            <step>
+                <cmd>Put on Old Spice deodorant</cmd>
+            </step>
+            <step>
+                <cmd>Get dressed in Virginia Tech clothes</cmd>
+            </step>
+            <step>
+                <cmd>Spray a little cologne on your shirt</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
